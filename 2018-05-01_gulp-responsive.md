@@ -21,6 +21,8 @@ In Udacity Mobile Web Specialist Nanodegree Part 2 Lesson 7.16 Quiz: Project Par
 7. Run `npm install --save-dev gulp-load-plugins`
 8. Run `npm install sharp`
 9. Run `npm install --save-dev gulp-responsive`
+10. Update gulpfile.js.
+11. Run `gulp images` to start the script.
 
 #### To-do:
 Update gulpfile.js to move original images out from images_src into an original folder. Or maybe even delete them. I don't know yet. This looks like a simple task and easy to do, I just need to figure out how I want to handle the original images. [Try this link](http://learningwithjb.com/posts/moving-files-with-gulp).
