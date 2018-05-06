@@ -5,11 +5,15 @@ To install gulp-responsive, so that I can automatically resize and compress my i
 In Udacity Mobile Web Specialist Nanodegree Part 2 Lesson 7.16 Quiz: Project Part 1, it asks us to use automated tool to process images into different sizes. But we were not shown how to use Grunt. From what I gather I should be learning Gulp instead of Grunt. The reasoning for that is Gulp is covered in Part 3, and people on the Slack channel is recommending Gulp over Grunt.
 
 #### Resources:
+- node installed
 - gulp (task runner, automation tool)
 - gulp-load-plugins
 - sharp
 - gulp-responsive
 - Watch LevelUpTuts on [youtube](https://www.youtube.com/watch?v=wNlEK8qrb0M&list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos&index=1)
+
+#### My equipment:
+- Windows 10 Laptop
 
 #### Procedure:
 1. Open node.js command prompt.
