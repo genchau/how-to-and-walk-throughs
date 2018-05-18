@@ -25,4 +25,5 @@ Just wanted to view the app on my phone, since I am studying to be a Mobile Web 
 It be nice to be able to get this on a public server so it can be served from the cloud.
 
 #### Other comments:
+Troubleshooting tip. Might need to unregister service worker and delete cache if changes were made to source code.
 
