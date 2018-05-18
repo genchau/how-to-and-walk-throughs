@@ -7,6 +7,9 @@
 #### Resources:
 
 
+#### Equipment used:
+
+
 #### Procedure:
 
 
