@@ -22,7 +22,7 @@ Just wanted to view the app on my phone, since I am studying to be a "Mobile Web
 7. In chrome://inspect, click on "Inspect" to open dev tools for the phone.
 
 #### To-do:
-- [X] It be nice to be able to get this on a public server so it can be served from the cloud. https://github.com/genchau/how-to-and-walk-throughs/tree/master
+- [X] It be nice to be able to get this on a public server so it can be served from the cloud. https://github.com/genchau/how-to-and-walk-throughs/blob/master/2018-05-17_restaurant-project_on_phone_ngrok.md
 
 #### Other comments:
 Troubleshooting tip. Might need to unregister service worker and delete cache if changes were made to source code.
