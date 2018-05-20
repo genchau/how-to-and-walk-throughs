@@ -1,15 +1,15 @@
 #### Objective: 
-Getting the Restaurant Reviews app to open on my phone.
+Getting the Restaurant Reviews app to open on my phone using port forwarding in remote USB debugging.
 
 #### Situation:
-Just wanted to view the app on my phone, since I am studying to be a Mobile Web Specialist.
+Just wanted to view the app on my phone, since I am studying to be a "Mobile Web" Specialist.
 
 #### Resources:
 1. https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server
 
-#### Equipment used:
-1. Windows 10 Laptop, python 2
-2. LG V20
+#### Equipment I used:
+1. Dell 7559, Windows 10 Laptop, python 2
+2. LG V20 (android phone)
 3. USB Cable
 
 #### Procedure:
@@ -22,7 +22,7 @@ Just wanted to view the app on my phone, since I am studying to be a Mobile Web 
 7. In chrome://inspect, click on "Inspect" to open dev tools for the phone.
 
 #### To-do:
-It be nice to be able to get this on a public server so it can be served from the cloud.
+- [X] It be nice to be able to get this on a public server so it can be served from the cloud. https://github.com/genchau/how-to-and-walk-throughs/tree/master
 
 #### Other comments:
 Troubleshooting tip. Might need to unregister service worker and delete cache if changes were made to source code.
